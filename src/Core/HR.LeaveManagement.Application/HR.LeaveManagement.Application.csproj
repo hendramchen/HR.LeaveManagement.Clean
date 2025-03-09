@@ -17,7 +17,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Features\LeaveType\Commands\" />
+      <Folder Include="Features\LeaveType\Commands\DeleteLeaveType\" />
     </ItemGroup>
 
 </Project>
